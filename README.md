@@ -33,3 +33,9 @@ bot/
 - Add strategy automation
 - Add dashboard UI
 - Add database integration
+
+## Author
+Varun Vanam
+
+## GitHub Repository
+https://github.com/vanamvarun22-del/binance-futures-trading-bot
