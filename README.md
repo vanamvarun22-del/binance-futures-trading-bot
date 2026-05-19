@@ -43,13 +43,13 @@ https://github.com/vanamvarun22-del/binance-futures-trading-bot
 ## Project Screenshots
 
 ### GitHub Repository
-![GitHub](screenshots/github.jpeg)
+![GitHub](trading_bot/screenshots/github.jpeg)
 
 ### GitHub Full Page
-![GitHub Full](screenshots/github1.jpeg)
+![GitHub Full](trading_bot/screenshots/github1.jpeg)
 
 ### VS Code Project Structure
-![VSCode](screenshots/vscode.jpeg)
+![VSCode](trading_bot/screenshots/vscode.jpeg)
 
 ### Terminal Output
-![Terminal](screenshots/terminal.jpeg)
+![Terminal](trading_bot/screenshots/terminal.jpeg)
