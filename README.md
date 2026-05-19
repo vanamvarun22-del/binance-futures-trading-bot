@@ -39,3 +39,17 @@ Varun Vanam
 
 ## GitHub Repository
 https://github.com/vanamvarun22-del/binance-futures-trading-bot
+
+## Project Screenshots
+
+### GitHub Repository
+![GitHub](screenshots/github.jpeg)
+
+### GitHub Full Page
+![GitHub Full](screenshots/github1.jpeg)
+
+### VS Code Project Structure
+![VSCode](screenshots/vscode.jpeg)
+
+### Terminal Output
+![Terminal](screenshots/terminal.jpeg)
